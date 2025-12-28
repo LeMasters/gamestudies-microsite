@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-publish/notes-on-212-for-publish/","tags":["IMS212"]}
+{"dg-publish":true,"permalink":"/40-publish/notes-on-212-for-publish/","tags":["IMS212"],"created":"2025-12-28T15:03:19.980-05:00","updated":"2025-12-28T15:54:27.214-05:00"}
 ---
 
 
